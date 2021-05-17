@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from WindTurbineOutput import *
+from lib import *
 
 counter = int(0)
 
